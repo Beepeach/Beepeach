@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Beepeach
-- 👀 I’m interested iOS, Swift
+- 🍑 I’m interested iOS, Swift
+- 🐝 My Blog is https://beepeach.tistory.com
 - 📫 How to reach me eh7457303j@gmail.com
 
 <!---
