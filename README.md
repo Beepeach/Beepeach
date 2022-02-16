@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Beepeach
-- 🍑 I’m interested iOS, Swift
-- 🐝 My Blog is https://beepeach.tistory.com
-- 📫 How to reach me eh7457303j@gmail.com
+# 👋 Beepeach의 Github입니다.
 
-<!---
-Beepeach/Beepeach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 🐝 블로그 주소: [iOS with BeePeach](https://beepeach.tistory.com)
+### 📫 이메일: eh7457303j@gmail.com
+
+
